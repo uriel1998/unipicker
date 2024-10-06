@@ -22,10 +22,7 @@ Running with `fzf`:
 
 Running with `fzf` (version => 0.53) in `tmux` :
 
-![Running with fzf](https://i.imgur.com/Yx57eRz.png)
-  
-
-![Running with fzf](https://i.imgur.com/H0OOwz0.mp4)
+![Running with fzf](https://i.imgur.com/T3Lu9VF.gif)
 
 Running with `rofi -dmenu`:
 
