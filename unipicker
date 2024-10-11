@@ -38,7 +38,7 @@ else
 fi
 
 symbols_file="${UNIPICKER_SYMBOLS_FILE:-${SCRIPTDIR}/symbols}"
-select_command=${UNIPICKER_SELECT_COMMAND:-fzf --tmux}
+#select_command=${UNIPICKER_SELECT_COMMAND:-fzf --tmux}
 copy_command=${UNIPICKER_COPY_COMMAND:-${os_copy_command}}
 
 usage () {
